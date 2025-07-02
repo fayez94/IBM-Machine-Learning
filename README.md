@@ -11,7 +11,7 @@ This repository contains my hands-on work, projects, and learning notes from the
 - Conducted **descriptive statistics**, handled **missing data**, detected **outliers**, and visualized data using `matplotlib` and `seaborn`
 - Completed a full EDA project using the **Ames Housing dataset**
 
-🔗 [View Final Project Notebook](link-to-your-notebook)
+🔗 [View Final Project Notebook](https://github.com/fayez94/IBM-Machine-Learning/tree/main/Course-EDA)
 
 ---
 
