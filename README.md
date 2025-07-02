@@ -1,5 +1,20 @@
-There are 6 courses in IBM Machine Learnig course. These are:
-1. Exploratory Data Analysis for ML
-In the final project of this course i have done several task with Ames housing price dataset. these are
-1. 
+# 🤖 IBM Machine Learning Professional Certificate (Coursera)
+
+This repository contains my hands-on work, projects, and learning notes from the **IBM Machine Learning Professional Certificate** offered on Coursera. The program consists of **6 career-focused courses** that guide learners through foundational and applied machine learning topics with practical Python-based implementations.
+
+---
+
+## 🏆 Courses Completed
+
+### 1️⃣ Exploratory Data Analysis for Machine Learning ✅
+- Learned the importance of **EDA** before modeling
+- Conducted **descriptive statistics**, handled **missing data**, detected **outliers**, and visualized data using `matplotlib` and `seaborn`
+- Completed a full EDA project using the **Ames Housing dataset**
+
+🔗 [View Final Project Notebook](link-to-your-notebook)
+
+---
+
+
+
    
